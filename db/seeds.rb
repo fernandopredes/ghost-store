@@ -14,12 +14,13 @@ CSV.foreach(Rails.root.join('db/seed_data/categories.csv'), headers: true) do |r
 end
 
 CSV.foreach(Rails.root.join('db/seed_data/items.csv'), headers: true) do |row|
-  category = Category.find_by(name: row['category_name'])
-  Item.find_or_create_by(
+  category = Category.find_or_create_by(name: row['category_name'])
+  Item.create!({
     name: row['name'],
     description: row['description'],
-    quantity: row['quantity'].to_i,
+    price: row['price'].to_f,
+    quantity: row['quantity'],
     url: row['url'],
     category: category
-  )
+  })
 end

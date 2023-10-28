@@ -1,16 +1,16 @@
-name,description,category_name,quantity,url
-EMF Meter,Detecta campos eletromagnéticos.,Equipamento Eletrônico,15,https://example.com/emf_meter
-Gravador de Voz,Captura EVPs.,Equipamento de Áudio,10,https://example.com/voice_recorder
-Termômetro,Mede variações de temperatura.,Equipamento Eletrônico,20,https://example.com/thermometer
-Câmera IR,Captura imagens no escuro.,Equipamento Eletrônico,10,https://example.com/ir_camera
-Microfone Parabólico,Captura sons a distância.,Equipamento de Áudio,8,https://example.com/parabolic_mic
-Analisador de Espectro,Analisa frequências.,Ferramentas Analíticas,12,https://example.com/spectrum_analyzer
-Luz UV,Revela vestígios ocultos.,Acessórios,25,https://example.com/uv_light
-Bastão de Sálvia,Purifica ambientes.,Acessórios,30,https://example.com/sage_stick
-Geofone,Deteta vibrações.,Equipamento Eletrônico,10,https://example.com/geophone
-Spirit Box,Comunicação com entidades.,Equipamento de Áudio,7,https://example.com/spirit_box
-Placa Ouija,Comunicação espiritual.,Acessórios,9,https://example.com/ouija_board
-Câmera Full Spectrum,Captura luz visível e invisível.,Equipamento Eletrônico,8,https://example.com/full_spectrum_camera
-Hidrômetro,Mede umidade do ar.,Ferramentas Analíticas,11,https://example.com/hydrometer
-Lanterna,Iluminação básica.,Acessórios,40,https://example.com/flashlight
-Detector de Movimento,Identifica movimentos no ambiente.,Equipamento Eletrônico,14,https://example.com/motion_detector
+name,description,price,category_name,quantity,url
+EMF Meter,Detecta campos eletromagnéticos.,50.99,Equipamento Eletrônico,15,https://example.com/emf_meter
+Gravador de Voz,Captura EVPs.,35.75,Equipamento de Áudio,10,https://example.com/voice_recorder
+Termômetro,Mede variações de temperatura.,20.49,Equipamento Eletrônico,20,https://example.com/thermometer
+Câmera IR,Captura imagens no escuro.,70.90,Equipamento Eletrônico,10,https://example.com/ir_camera
+Microfone Parabólico,Captura sons a distância.,55.60,Equipamento de Áudio,8,https://example.com/parabolic_mic
+Analisador de Espectro,Analisa frequências.,80.25,Ferramentas Analíticas,12,https://example.com/spectrum_analyzer
+Luz UV,Revela vestígios ocultos.,15.89,Acessórios,25,https://example.com/uv_light
+Bastão de Sálvia,Purifica ambientes.,9.99,Acessórios,30,https://example.com/sage_stick
+Geofone,Deteta vibrações.,45.00,Equipamento Eletrônico,10,https://example.com/geophone
+Spirit Box,Comunicação com entidades.,65.50,Equipamento de Áudio,7,https://example.com/spirit_box
+Placa Ouija,Comunicação espiritual.,24.99,Acessórios,9,https://example.com/ouija_board
+Câmera Full Spectrum,Captura luz visível e invisível.,95.20,Equipamento Eletrônico,8,https://example.com/full_spectrum_camera
+Hidrômetro,Mede umidade do ar.,32.30,Ferramentas Analíticas,11,https://example.com/hydrometer
+Lanterna,Iluminação básica.,14.50,Acessórios,40,https://example.com/flashlight
+Detector de Movimento,Identifica movimentos no ambiente.,49.99,Equipamento Eletrônico,14,https://example.com/motion_detector

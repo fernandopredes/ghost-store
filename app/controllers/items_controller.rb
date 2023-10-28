@@ -1,7 +1,7 @@
 class ItemsController < ApplicationController
   def index
     items = Item.all
-    render json: items
+    render json: items.as_json(include: { category: { only: [:id, :name] } })
   end
 
   def show_by_category
