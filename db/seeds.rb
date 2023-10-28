@@ -7,3 +7,19 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+require 'csv'
+
+CSV.foreach(Rails.root.join('db/seed_data/categories.csv'), headers: true) do |row|
+  Category.find_or_create_by(name: row['name'])
+end
+
+CSV.foreach(Rails.root.join('db/seed_data/items.csv'), headers: true) do |row|
+  category = Category.find_by(name: row['category_name'])
+  Item.find_or_create_by(
+    name: row['name'],
+    description: row['description'],
+    quantity: row['quantity'].to_i,
+    url: row['url'],
+    category: category
+  )
+end
