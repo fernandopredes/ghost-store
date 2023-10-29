@@ -1,16 +1,16 @@
 name,description,price,category_name,quantity,url
-EMF Meter,Detecta campos eletromagnéticos.,50.99,Equipamento Eletrônico,15,https://example.com/emf_meter
-Gravador de Voz,Captura EVPs.,35.75,Equipamento de Áudio,10,https://example.com/voice_recorder
-Termômetro,Mede variações de temperatura.,20.49,Equipamento Eletrônico,20,https://example.com/thermometer
-Câmera IR,Captura imagens no escuro.,70.90,Equipamento Eletrônico,10,https://example.com/ir_camera
-Microfone Parabólico,Captura sons a distância.,55.60,Equipamento de Áudio,8,https://example.com/parabolic_mic
-Analisador de Espectro,Analisa frequências.,80.25,Ferramentas Analíticas,12,https://example.com/spectrum_analyzer
-Luz UV,Revela vestígios ocultos.,15.89,Acessórios,25,https://example.com/uv_light
-Bastão de Sálvia,Purifica ambientes.,9.99,Acessórios,30,https://example.com/sage_stick
-Geofone,Deteta vibrações.,45.00,Equipamento Eletrônico,10,https://example.com/geophone
-Spirit Box,Comunicação com entidades.,65.50,Equipamento de Áudio,7,https://example.com/spirit_box
-Placa Ouija,Comunicação espiritual.,24.99,Acessórios,9,https://example.com/ouija_board
-Câmera Full Spectrum,Captura luz visível e invisível.,95.20,Equipamento Eletrônico,8,https://example.com/full_spectrum_camera
-Hidrômetro,Mede umidade do ar.,32.30,Ferramentas Analíticas,11,https://example.com/hydrometer
-Lanterna,Iluminação básica.,14.50,Acessórios,40,https://example.com/flashlight
-Detector de Movimento,Identifica movimentos no ambiente.,49.99,Equipamento Eletrônico,14,https://example.com/motion_detector
+EMF Meter,Detecta campos eletromagnéticos.,50.99,Equipamento Eletrônico,15,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558265/ghost/emf_qlawdp.jpg
+Gravador de Voz,Captura EVPs.,35.75,Equipamento de Áudio,10,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558263/ghost/gravador_etgojh.jpg
+Termômetro,Mede variações de temperatura.,20.49,Equipamento Eletrônico,20,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558263/ghost/termometro_zsmznx.jpg
+Câmera IR,Captura imagens no escuro.,70.90,Equipamento Eletrônico,10,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558264/ghost/camerasensor_bhtkrv.jpg
+Microfone Parabólico,Captura sons a distância.,55.60,Equipamento de Áudio,8,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558263/ghost/microfone_jmrmrh.jpg
+Analisador de Espectro,Analisa frequências.,80.25,Ferramentas Analíticas,12,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558264/ghost/analisador_csatvq.jpg
+Luz UV,Revela vestígios ocultos.,15.89,Acessórios,25,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558263/ghost/luzroxa_nuqjoz.jpg
+Bastão de Sálvia,Purifica ambientes.,9.99,Acessórios,30,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558263/ghost/salvia_wnvqje.jpg
+Geofone,Deteta vibrações.,45.00,Equipamento Eletrônico,10,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558265/ghost/geofone_qlz0vb.jpg
+Spirit Box,Comunicação com entidades.,65.50,Equipamento de Áudio,7,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558263/ghost/spiritbox_lwvnbi.jpg
+Placa Ouija,Comunicação espiritual.,24.99,Acessórios,9,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558263/ghost/ouija_oauyrw.jpg
+Câmera Full Spectrum,Captura luz visível e invisível.,95.20,Equipamento Eletrônico,8,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558265/ghost/fullespectrum_dgsl2a.jpg
+Hidrômetro,Mede umidade do ar.,32.30,Ferramentas Analíticas,11,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558262/ghost/hidrometro_ny1xod.jpg
+Lanterna,Iluminação básica.,14.50,Acessórios,40,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558263/ghost/lanterna_jxmhso.jpg
+Detector de Movimento,Identifica movimentos no ambiente.,49.99,Equipamento Eletrônico,14,https://res.cloudinary.com/dneyzrb1r/image/upload/v1698558264/ghost/detector_qyvoyn.jpg
