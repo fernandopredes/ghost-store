@@ -10,10 +10,18 @@ class ItemsController < ApplicationController
     render json: items
   end
 
-
   def show
     item = Item.find(params[:id])
     render json: item
+  end
+
+  def search
+    if params[:query].present?
+      items = Item.where("name LIKE ?", "%#{params[:query]}%")
+      render json: items
+    else
+      render json: Item.all
+    end
   end
 
 end
